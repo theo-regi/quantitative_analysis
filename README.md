@@ -1,10 +1,9 @@
-This is the code to the lecture of
-"Analyse quantitative en Python"
-of 
-Masters 2 IEF 272 (Ingenierie Economique et Financiere)
+This is the code for the lecture "Analyse Quantitative en Python" of Master's 2 IEF 272 (Ingénierie Économique et Financière), directed by Dimitri Valko, from Paris Dauphine University (PSL), France.
 
-from Paris Dauphine University (PSL), FRANCE
+The project was carried out in a group of three.
 
-The students have access to low level LEVEL 2 Order Book data CSVs from production environment.
+You may add the downloaded data history from the Dukascopy source or request HF data from the FX market.
 
-You might add the downloaded data history from Dukaskopy source.
+Part of the code was developed during the lectures, while the rest was completed as part of the project, which is an extension and "research" in Python.
+
+To review the project and the analysis we produced, please refer to the Documentation.pdf file. The Documentation.pdf file concludes on a failure which is caused by diverse problamatic. The most important problem is about using "technical" indicators to predict prices' movements. It was one of the hypotesis of the group that "technical" indicators are useless in that task, and we think that the project concludes in a "debunk" of these as pertinent.
